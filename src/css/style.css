@@ -1,0 +1,62 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+};
+
+.btn { 
+    padding: 7px;
+}
+
+.btn:hover {
+    background-color: #7E0F0F
+    
+    ;  
+}
+
+.input {
+    border-radius: 0.5rem;
+    margin-bottom: 15px;
+}
+
+.pets {
+   
+}
+
+.boxes{
+    border-radius: 0.5rem;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    height: 300px;
+}
+
+.boxes img{
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    width: 100%;
+}
+
+.box a {
+    text-decoration: none;
+    color: black;
+}
+
+.box a:nth-last-child(2) {
+    
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+    background-color: #7E0F0F;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+}
+.box a:nth-last-child(1) {
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+    background-color: #7E0F0F;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+

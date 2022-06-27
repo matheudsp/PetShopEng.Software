@@ -1,0 +1,10 @@
+
+body {
+   background:#7E0F0F;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    height: 800px;
+}
+.form-control {
+    border: #dd4b39 solid 1px;
+}
