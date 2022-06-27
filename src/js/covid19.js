@@ -11,7 +11,7 @@ function plotData(data) {
 		cases = data.map(a => a.cases);
 
 	keys.unshift("dates");
-	cases.unshift("cases");
+	cases.unshift("Casos");
 
 	bb.generate({
 	    bindto: "#covid-all-us-cases",
